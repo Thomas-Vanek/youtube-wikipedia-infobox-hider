@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Clarification Box Hider
-// @namespace    https://github.com/Thomas-Vanek/yt-infobox-hider
+// @namespace    https://github.com/Thomas-Vanek/youtube-wikipedia-infobox-hider
 // @version      1.1
 // @description  Hides the clarification boxes that youtube has added.
 // @author       Thomas V.
